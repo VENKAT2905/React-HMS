@@ -1,7 +1,9 @@
+/* App.css */
 .App {
   margin: 0;
   height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -9,6 +11,9 @@
   background-color: #f0f0f0;
   color: #333;
 }
-.App h1 h2 h3{
+
+.App h1,
+.App h2,
+.App h3 {
   margin: 0;
 }
