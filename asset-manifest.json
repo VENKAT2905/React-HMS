@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/React-HMS/static/css/main.f855e6bc.css",
-    "main.js": "/React-HMS/static/js/main.fa9bb6b6.js",
+    "main.css": "/React-HMS/static/css/main.065ba289.css",
+    "main.js": "/React-HMS/static/js/main.2c3578a7.js",
     "static/js/453.183908db.chunk.js": "/React-HMS/static/js/453.183908db.chunk.js",
-    "static/media/logo.svg": "/React-HMS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React-HMS/index.html",
-    "main.f855e6bc.css.map": "/React-HMS/static/css/main.f855e6bc.css.map",
-    "main.fa9bb6b6.js.map": "/React-HMS/static/js/main.fa9bb6b6.js.map",
+    "main.065ba289.css.map": "/React-HMS/static/css/main.065ba289.css.map",
+    "main.2c3578a7.js.map": "/React-HMS/static/js/main.2c3578a7.js.map",
     "453.183908db.chunk.js.map": "/React-HMS/static/js/453.183908db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.fa9bb6b6.js"
+    "static/css/main.065ba289.css",
+    "static/js/main.2c3578a7.js"
   ]
 }
