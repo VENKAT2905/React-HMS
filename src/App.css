@@ -4,6 +4,8 @@
   box-sizing: border-box;
 }
 .App {
+  padding-top: 50%;
+  padding-bottom: 50%;
   text-align: center;
   font-family: Arial, sans-serif;
   background-color: #f0f0f0;
