@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-HMS/static/css/main.83a6c509.css",
+    "main.css": "/React-HMS/static/css/main.14d612cd.css",
     "main.js": "/React-HMS/static/js/main.2c3578a7.js",
     "static/js/453.183908db.chunk.js": "/React-HMS/static/js/453.183908db.chunk.js",
     "index.html": "/React-HMS/index.html",
-    "main.83a6c509.css.map": "/React-HMS/static/css/main.83a6c509.css.map",
+    "main.14d612cd.css.map": "/React-HMS/static/css/main.14d612cd.css.map",
     "main.2c3578a7.js.map": "/React-HMS/static/js/main.2c3578a7.js.map",
     "453.183908db.chunk.js.map": "/React-HMS/static/js/453.183908db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83a6c509.css",
+    "static/css/main.14d612cd.css",
     "static/js/main.2c3578a7.js"
   ]
 }
